@@ -1,1 +1,1 @@
-Creating a test1for testing perpose
+Creating a directory test1 for testing perpose
